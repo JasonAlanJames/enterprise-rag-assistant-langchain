@@ -7,6 +7,7 @@ Built by Jason Alan James
 GitHub: https://github.com/jasonalanjames  
 Portfolio: https://jasonajames.com  
 LinkedIn: https://linkedin.com/in/jasonalanjames
+
 Portfolio Skill Demonstrated
 Enterprise Retrieval-Augmented Generation, also called RAG.
 
