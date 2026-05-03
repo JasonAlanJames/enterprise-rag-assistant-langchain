@@ -1,6 +1,7 @@
 Enterprise RAG Assistant with LangChain
 A production-style Retrieval-Augmented Generation assistant built with LangChain, FastAPI, Chroma, OpenAI embeddings, and LangSmith-ready tracing.
 This project demonstrates how to build an enterprise knowledge assistant that answers questions from private documents with source citations and refusal behavior when the answer is not available in the uploaded context.
+
 Author
 Built by Jason Alan James  
 GitHub: https://github.com/jasonalanjames  
