@@ -226,6 +226,7 @@ evals/rag_eval_dataset.json
 ```
 It defines example questions, expected answer content, expected sources, and refusal behavior.
 What This Project Demonstrates
+
 This project demonstrates the core enterprise AI engineering pattern behind internal knowledge assistants:
 secure document ingestion
 semantic retrieval
@@ -237,7 +238,10 @@ observability readiness
 safe secret handling
 Resume Bullet
 Enterprise RAG Assistant | LangChain, Python, Chroma, FastAPI, OpenAI, Docker  
+
 Built a production-style Retrieval-Augmented Generation assistant with document ingestion, vector retrieval, grounded answer generation, source citations, refusal behavior, pytest coverage, Docker deployment, and LangSmith-ready tracing.
+
 License
 Copyright (c) 2026 Jason Alan James. All rights reserved.
+
 This repository is provided for portfolio and demonstration purposes only. No permission is granted to copy, modify, distribute, sublicense, or use this code in commercial or production systems without prior written permission from the author.
