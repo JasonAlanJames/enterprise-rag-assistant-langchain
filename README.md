@@ -8,6 +8,7 @@ Portfolio: https://jasonajames.com
 LinkedIn: https://linkedin.com/in/jasonalanjames
 Portfolio Skill Demonstrated
 Enterprise Retrieval-Augmented Generation, also called RAG.
+
 This project shows how to build an AI assistant that retrieves relevant internal knowledge before generating an answer. This is the same core pattern used in many enterprise AI assistants for policies, support knowledge bases, internal documentation, cloud runbooks, security procedures, product docs, and engineering knowledge systems.
 Features
 LangChain RAG architecture
